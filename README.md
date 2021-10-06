@@ -40,7 +40,9 @@ A.  [Python:](https://linktodocumentation)
     Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
 --Tools: Pandas, Folium, Seaborn and Matplotlib
 * [Micro Projects:](https://linktodocumentation)
+
 A.  [Python:](https://linktodocumentation)
+
 1.  [ML with Logistic Regression:](https://linktodocumentation)
      Using Logistic Regression to predict whether an internet user clicked an ad or not.
 2.  [ML with K Nearest Neighbours:](https://linktodocumentation)
