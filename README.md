@@ -1,7 +1,8 @@
 
 # Kunal's Portfolio
 
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
+Hello There!,Thank you for visiting my profile! Hope you'll find some interesting stuff here!
+I've created Repositories containing portfolio of data science/ machine Learning projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
 
 Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
 
