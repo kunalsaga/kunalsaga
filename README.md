@@ -12,7 +12,7 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 ## Machine Learning:
 1.  [Predicting Boston Housing Prices:](https://github.com/kunalsaga/Machine-Learning-Data-Science-Projects/tree/main/Boston%20Housing)
      A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
-2.  [Supervised Learning:](https://linktodocumentation)
+2.  [Supervised Learning:](https://github.com/kunalsaga/Machine-Learning-Data-Science-Projects/tree/main/finding_donors)
      Finding Donors for CharityML: Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
 3.  [Unsupervised Learning:](https://linktodocumentation)
      Creating Customer Segments: Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
