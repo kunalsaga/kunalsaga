@@ -10,7 +10,7 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 ## Contents
 
 ## Machine Learning:
-1.  [Predicting Boston Housing Prices:](https://linktodocumentation)
+1.  [Predicting Boston Housing Prices:](https://github.com/kunalsaga/Machine-Learning-Data-Science-Projects/tree/main/Boston%20Housing)
      A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
 2.  [Supervised Learning:](https://linktodocumentation)
      Finding Donors for CharityML: Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
